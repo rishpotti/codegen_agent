@@ -1,3 +1,6 @@
 agent_venv/
 .env
 instance/
+search_dir/
+test_dir/
+example.txt
